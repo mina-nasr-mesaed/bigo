@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063254236749",
+    "project_id": "bigo-game",
+    "storage_bucket": "bigo-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063254236749:android:313f90ccf4ed98ffa2c604",
+        "android_client_info": {
+          "package_name": "com.example.bigo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAre-VVc7YXW86RviIJ4mxk54N6B65biCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
